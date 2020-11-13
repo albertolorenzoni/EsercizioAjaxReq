@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "nome": "Marco",
+            "cognome": "Marchi",
+            "eta": 20
+        },
+        {
+            "nome": "Franco",
+            "cognome": "Franchi",
+            "eta": 35
+        },
+        {
+            "nome": "Luigi",
+            "cognome": "Luigini",
+            "eta": 40
+        }
+    ]
+}
